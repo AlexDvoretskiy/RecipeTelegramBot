@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<webResources>
+    <webResource>
+        <mainURL>https://eda.ru</mainURL>
+        <requestURL>https://eda.ru/recipesearch?q=:params&amp;onlyEdaChecked=true</requestURL>
+        <itemClass>horizontal-tile__item-title</itemClass>
+        <itemPage>
+            <titleClass>recipe__name</titleClass>
+            <descriptionClass>recipe__description layout__content-col _default-mod</descriptionClass>
+            <portionClass>info-text js-portions-count-print</portionClass>
+            <cookingTimeClass>instruction-controls</cookingTimeClass>
+            <ingredientsClass>ingredients-list__content</ingredientsClass>
+            <instructionsClass>instruction__description js-steps__description _no-photo;instruction__description js-steps__description </instructionsClass>
+            <imageClass>recipe__print-cover</imageClass>
+            <adviceClass>recipe__note</adviceClass>
+        </itemPage>
+    </webResource>
+</webResources>
