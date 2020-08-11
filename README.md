@@ -12,7 +12,7 @@ The user chooses prefered option and gets photo of the dish, needed ingredients 
 <a href="url"><img src="https://github.com/AlexDvoretskiy/RecipeTelegramBot/blob/master/screenshots/recipeBot_2.jpeg" align="left" width="250" ></a>
 
 <a href="url"><img src="https://github.com/AlexDvoretskiy/RecipeTelegramBot/blob/master/screenshots/recipeBot_3.jpeg" align="left" width="250" ></a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Tech Stack
 * Java
